@@ -18,6 +18,7 @@ MINIST数据集的下载地址：训练数据： https://pjreddie.com/media/file
 代码地址：https://github.com/brainstormYYF/mnist_classifier
 
 1.按照第三部分搭建好pytorch环境
+详见https://zhuanlan.zhihu.com/p/565711690
 
 2.用pycharm右键打开此代码文件（pycharm专业版可以用csu邮箱申请），点击右下角interpreter settings
 
