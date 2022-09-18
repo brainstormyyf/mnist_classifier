@@ -6,7 +6,7 @@
 
 MNIST数据集是一组常见的图像，常用于测评和比较机器学习算法的性能。其中六万幅图像用于训练模型，另外一万幅用于测试模型。
 
-<img src="深度学习实践入门指南.assets/image-20220916142059683.png" alt="image-20220916142059683" style="zoom: 50%;" />
+https://github.com/brainstormYYF/mnist_classifier/blob/main/imgs/image-20220916142059683.png
 
 <img src="深度学习实践入门指南.assets/image-20220916142124277.png" alt="image-20220916142124277" style="zoom: 50%;" />
 
