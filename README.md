@@ -6,13 +6,10 @@
 
 MNIST数据集是一组常见的图像，常用于测评和比较机器学习算法的性能。其中六万幅图像用于训练模型，另外一万幅用于测试模型。
 
-<img src="https://user-images.githubusercontent.com/74011275/190901453-baf522fc-9375-43b1-af0b-9d15fdec5ce2.png" width=400>
+<img src="https://user-images.githubusercontent.com/74011275/190901453-baf522fc-9375-43b1-af0b-9d15fdec5ce2.png" width=500>
+<img src="https://user-images.githubusercontent.com/74011275/190901720-5160a10d-073b-4320-8eb8-f259c1957798.png" width=500>
 
-[
-](https://github.com/brainstormYYF/mnist_classifier/blob/main/imgs/image-20220916142124277.png?raw=true)
-
-这些大小为28*28像素的单色图像没有颜色[
-](https://github.com/brainstormYYF/mnist_classifier/blob/main/imgs/image-20220916142124277.png?raw=true)。每个像素是一个0~255的数值，表示该像素的明暗度。
+这些大小为28*28像素的单色图像没有颜色。每个像素是一个0~255的数值，表示该像素的明暗度。
 
 MINIST数据集的下载地址：训练数据： https://pjreddie.com/media/files/mnist_train.csv。 测试数据： https://pjreddie.com/media/files/mnist_test.csv。
 
@@ -24,13 +21,12 @@ MINIST数据集的下载地址：训练数据： https://pjreddie.com/media/file
 
 2.用pycharm右键打开此代码文件（pycharm专业版可以用csu邮箱申请），点击右下角interpreter settings
 
-<img src="深度学习实践入门指南.assets/image-20220918013630865.png" alt="image-20220918013630865" style="zoom: 33%;" />
-
-
+<img src="https://user-images.githubusercontent.com/74011275/190901772-66cde52d-9138-4241-8c07-23807b43082f.png" width=500>
 
 然后添加interpreter,add local interpreter
 
-<img src="深度学习实践入门指南.assets/image-20220918013832814.png" alt="image-20220918013832814" style="zoom:33%;" />
+<img src="https://user-images.githubusercontent.com/74011275/190901795-686d23e9-037c-48e7-840f-fd10a2a2f076.png" width=500>
+
 
 选择安装pytorch环境的那个虚拟环境中的python解释器
 
@@ -48,8 +44,7 @@ MINIST数据集的下载地址：训练数据： https://pjreddie.com/media/file
 
 TIPS：pycharm中传参的方式
 
-<img src="深度学习实践入门指南.assets/image-20220918123918454.png" alt="image-20220918123918454" style="zoom: 33%;" />
-
+<img src="https://user-images.githubusercontent.com/74011275/190901829-9678b924-989d-4874-8f3b-a6f44ba20b9a.png" width=500>
 
 
 **作业要求：尝试使用不同激活函数，损失函数和优化器训练模型（均改变传入的参数即可，激活函数，损失函数和优化器我每个都给了两个选择）。使用控制变量法训练多个不同的模型，比较这些模型的性能好坏，对测试结果进行截图并做出对比表格，分析实验结果得出激活函数，优化器，损失函数的更优选择，并查阅资料分析为什么，写出文档说明。**
