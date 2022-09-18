@@ -8,9 +8,11 @@ MNIST数据集是一组常见的图像，常用于测评和比较机器学习算
 
 <img src="https://user-images.githubusercontent.com/74011275/190901453-baf522fc-9375-43b1-af0b-9d15fdec5ce2.png" width=400>
 
-<img src="[深度学习实践入门指南](https://github.com/brainstormYYF/mnist_classifier/blob/main/imgs/image-20220916142124277.png?raw=true).assets/image-20220916142124277.png" alt="image-20220916142124277" style="zoom: 50%;" />
+[
+](https://github.com/brainstormYYF/mnist_classifier/blob/main/imgs/image-20220916142124277.png?raw=true)
 
-这些大小为28*28像素的单色图像没有颜色。每个像素是一个0~255的数值，表示该像素的明暗度。
+这些大小为28*28像素的单色图像没有颜色[
+](https://github.com/brainstormYYF/mnist_classifier/blob/main/imgs/image-20220916142124277.png?raw=true)。每个像素是一个0~255的数值，表示该像素的明暗度。
 
 MINIST数据集的下载地址：训练数据： https://pjreddie.com/media/files/mnist_train.csv。 测试数据： https://pjreddie.com/media/files/mnist_test.csv。
 
