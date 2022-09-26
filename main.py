@@ -24,7 +24,7 @@ class Classifier(nn.Module):
             nn.LayerNorm(200),
 
             nn.Linear(200, 10),
-            activation
+            nn.Sigmoid()
 
         )
 
